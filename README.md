@@ -1,4 +1,4 @@
-# Encryption-Project
+# Encryption-Tool
 
 This is an encryption and decryption tool that can convert a message into a secret-code consisting of just **0s and 1s**.
 
