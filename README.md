@@ -1,6 +1,6 @@
 # Secret-Message-Project
 
-> This is a encryption and decryption tool that can convert a message into a secret-code consisting of just 0s and 1s.
+This is a encryption and decryption tool that can convert a message into a secret-code consisting of just **0s and 1s**.
 
 ## Features
 - This tool encrypts a message **in the shortest way possible** using *Huffman Coding Algorithm* enhancing its memory efficiency.
@@ -11,4 +11,5 @@
 - Decryptor: O(n) (n is the length of the secret-code)
 
 #### Memory complexity:
-- Encryptor: O(n + )
+- Encryptor: *[will be specicified later]*
+- Decryptor: O(n) (n is the length of the secret-code)
