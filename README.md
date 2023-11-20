@@ -3,7 +3,7 @@
 This is an encryption and decryption tool that can convert a message into a secret-code consisting of just **0s and 1s**.
 
 ## Features
-- This tool encrypts a message **in the shortest way possible** using *Huffman Coding Algorithm*, which enhances its memory efficiency.
+- This tool encrypts a message **in the shortest way possible** using the *Huffman Coding Algorithm*, which enhances its memory efficiency.
 - The tool also has a **decryptor**, which makes it possible to decrypt a secret-code with its appropriate key data.
 
 ## Process
