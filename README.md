@@ -5,7 +5,7 @@ This is an encryption and decryption tool that can convert a message into a secr
 ## Features
 - This tool encrypts a message **in the shortest way possible** using the *Huffman Coding Algorithm*, which enhances its memory efficiency.
 - The tool also has a **decryptor**, which makes it possible to decrypt a secret-code with its appropriate key data.
-- Cross-platform and no-extra library is used
+- Cross-platform and no extra library is used
 
 ## Process
 The tool contains two compilable C++ files, one for encryption and the other for decryption. 
